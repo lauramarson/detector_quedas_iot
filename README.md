@@ -20,10 +20,7 @@ A lógica do sistema segue um fluxo contínuo:
 
 5. Notificação: Um cliente MQTT (como um app no celular de um familiar) inscrito nesse tópico recebe a mensagem instantaneamente.
 
-<p align="center">
-<img src="![Fluxograma](https://github.com/user-attachments/assets/2111d48a-fac9-40f9-998d-841a110234c3)
-" alt="Fluxograma da lógica de operação do sistema" width="600">
-</p>
+![Fluxograma](https://github.com/user-attachments/assets/c459cbfe-2f1a-46c0-9b74-1fbfc0ef70e3)
 
 ## ii) Software e Documentação de Código
 O firmware do dispositivo foi desenvolvido em C/C++ no ambiente Arduino e é totalmente compatível com o simulador Wokwi.
@@ -65,10 +62,7 @@ Localização dos arquivos: /hardware/
 ### Diagrama de Montagem
 O diagrama abaixo, gerado no Wokwi, detalha todas as conexões do circuito.
 
-<p align="center">
-<img src="<img width="414" height="712" alt="Protótipo Wokwi" src="https://github.com/user-attachments/assets/7a304062-6a0c-4aaa-bec2-4dd69121e39b" />
-" alt="Diagrama de montagem do protótipo no simulador Wokwi" width="500">
-</p>
+<img width="414" height="712" alt="Diagrama de Montagem" src="https://github.com/user-attachments/assets/4cf12882-7ef6-42d8-97e0-8600ae75ba97" />
 
 ## iv) Interfaces e Protocolos de Comunicação
 O projeto utiliza um conjunto de interfaces de hardware e protocolos de rede para funcionar.
